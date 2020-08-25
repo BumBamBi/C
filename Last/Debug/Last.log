@@ -1,0 +1,10 @@
+﻿  소스.cpp
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(80): warning C4552: '*': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(82): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(88): warning C4552: '*': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(90): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(96): warning C4552: '*': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(98): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\last\소스.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  Last.vcxproj -> C:\Users\user\Dropbox\공부\1학년_2학기\전공\C언어\Visual_Code\Last\Debug\Last.exe

@@ -1,0 +1,2 @@
+﻿  소스.cpp
+c:\users\ese2016\dropbox\공부\1학년_2학기\전공\c언어\visual_code\2011_11_15_땡땡땡\소스.cpp : fatal error C1041: 프로그램 데이터베이스 'C:\Users\ese2016\Dropbox\공부\1학년_2학기\전공\C언어\Visual_Code\2011_11_15_땡땡땡\Debug\vc140.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\user\dropbox\공부\1학년_2학기\전공\c언어\visual_code\2학기 기말고사\2016_11_07_포인터배열, 배열포인터\소스.cpp(44): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  LINK : C:\Users\user\Dropbox\공부\1학년_2학기\전공\C언어\Visual_Code\2학기 기말고사\2016_11_07_포인터배열, 배열포인터\Debug\2016_11_07.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  2016_11_07.vcxproj -> C:\Users\user\Dropbox\공부\1학년_2학기\전공\C언어\Visual_Code\2학기 기말고사\2016_11_07_포인터배열, 배열포인터\Debug\2016_11_07.exe
